@@ -79,7 +79,7 @@ npm run medir compara fontes, build sem minificação e build final, excluindo i
 
 No GitHub, selecione Settings > Pages > Source: GitHub Actions. O workflow valida PRs para develop/main e pushes nessas branches. Somente main pode publicar após teste e build aprovados. A etapa de publicação usa permissions pages: write e id-token: write; as demais têm apenas leitura do código. PRs não publicam.
 
-Publicação e registros remotos: veja docs/ENTREGA.md para o estado efetivamente confirmado. Não há variáveis secretas exigidas pela aplicação.
+Repositório público: https://github.com/fschwartzer/ong-comunidade. Veja docs/ENTREGA.md para o estado confirmado da publicação e dos registros remotos. Não há variáveis secretas exigidas pela aplicação.
 
 ## Versionamento e manutenção
 main representa a entrega estável; develop integra evolução; feature/spa contém a implementação. release/* prepara uma entrega e hotfix/* será criado se houver correção urgente. Não se criam branches vazias para aparentar trabalho inexistente.
@@ -90,4 +90,5 @@ Use issues para critérios de conclusão, milestone para a meta e PRs para expli
 
 ## Autoria e recursos
 Atividade acadêmica desenvolvida com assistência de IA, com revisão e testes descritos nos documentos. O uso da assistência não implica domínio autônomo de todas as técnicas. As ilustrações são geradas com IA e representam uma organização fictícia.
+
 
