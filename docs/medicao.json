@@ -1,0 +1,24 @@
+{
+  "geradoEm": "2026-09-21T20:17:22.851Z",
+  "fonteBytes": 46494,
+  "buildSemMinificacaoBytes": 47301,
+  "buildFinalBytes": 38569,
+  "reducaoGlobalPercentual": 17.05,
+  "reducaoMinificacaoPercentual": 18.46,
+  "html": {
+    "antes": 12989,
+    "depois": 12936
+  },
+  "imagensBytes": {
+    "doacoes.jpg": 222240,
+    "doacoes.webp": 110524,
+    "logo.png": 81180,
+    "logo.webp": 56872,
+    "projeto-social.jpg": 243061,
+    "projeto-social.webp": 116744,
+    "voluntarios.jpg": 273035,
+    "voluntarios.webp": 146284
+  },
+  "metodo": "HTML, CSS e JS sem gzip/Brotli; exclui imagens, ferramentas, testes e source maps. A baseline mantém o mesmo bundler com minificação desativada.",
+  "tempoCarregamento": "Não medido. Tamanho em bytes não equivale a tempo de carregamento."
+}
