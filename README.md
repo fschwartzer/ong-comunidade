@@ -1,5 +1,9 @@
 # ONG Comunidade
 
+Demonstração: https://fschwartzer.github.io/ong-comunidade/
+
+Repositório: https://github.com/fschwartzer/ong-comunidade
+
 Projeto acadêmico de Desenvolvimento Front-End para Web. A ONG é fictícia, as imagens foram geradas com IA e o formulário deve receber somente dados fictícios. Não há arrecadação, pagamentos, envio a servidor ou base compartilhada de cadastros.
 
 ## Funcionalidades
@@ -90,5 +94,6 @@ Use issues para critérios de conclusão, milestone para a meta e PRs para expli
 
 ## Autoria e recursos
 Atividade acadêmica desenvolvida com assistência de IA, com revisão e testes descritos nos documentos. O uso da assistência não implica domínio autônomo de todas as técnicas. As ilustrações são geradas com IA e representam uma organização fictícia.
+
 
 
