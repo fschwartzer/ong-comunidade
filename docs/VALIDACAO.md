@@ -41,3 +41,7 @@ Não são resultados de WebAIM, NVDA ou Lighthouse.
 - A aplicação exige JavaScript; noscript informa essa dependência.
 - Sem API, conta de usuário, backend, pagamento ou doação real.
 
+
+## Produção pública
+GitHub Pages verificado em HTTPS em 21/09/2026: navegação, imagens, modal, alto contraste, erro de formulário, salvamento/recuperação/exclusão de dados fictícios. Console sem avisos ou erros observados. Testes e build remotos aprovados antes da publicação.
+
